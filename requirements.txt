@@ -69,11 +69,6 @@ rsa==4.7
 scikit-image==0.18.1
 scipy==1.4.1
 six==1.15.0
-tensorboard==2.4.1
-tensorboard-plugin-wit==1.8.0
-tensorflow-estimator==2.4.0
-tensorflow-gpu==2.3.0
-tensorflow-gpu-estimator==2.3.0
 termcolor==1.1.0
 tifffile==2021.1.14
 toml==0.10.2
